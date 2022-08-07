@@ -1,5 +1,5 @@
     <!-- 文档尾部 -->
-    <footer>
+    <div>
         <div class="footer">
             <p>
                 Copyright © 2022 XiangXun
@@ -17,7 +17,7 @@
             </p>
 
         </div>
-    </footer>
+    </div>
 
 
 </body>

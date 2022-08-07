@@ -149,9 +149,6 @@ html {
 
 
 
-
-
-
 /* 关于模块 */
 .aboutMe {
     text-align: center;
@@ -178,7 +175,7 @@ html {
 
 }
 
-/* 文档尾部 */
+/* 总文档尾部开始 */
 
 .footer {
 
@@ -194,11 +191,18 @@ html {
     box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
 
 
-
 }
 
-/* 文章内容设定 */
-.a-title {
+/* 总文档尾部结束 */
+
+
+
+
+
+
+
+/* 文章内容设定开始 */
+.a-header {
 
     width: 90%;
 
@@ -208,7 +212,8 @@ html {
 
 
 }
-.a-title a{
+
+.a-header a{
     
     width: 100%;
     color: black;
@@ -218,7 +223,7 @@ html {
 
 }
 
-.a-title a:hover{
+.a-header a:hover{
     
     color:deepskyblue;
 
@@ -226,7 +231,7 @@ html {
 
 }
 
-.a-body {
+.a-main {
     width: 90%;
     height: 70%;
 
@@ -238,12 +243,15 @@ html {
 
 
 /* 文章内容字体设置 */
-
 .font-article {
     font-size: 20px;
 
     text-indent: 3em;
 }
+
+
+
+/* 文章内容设定结束 */
 
 
 

@@ -16,7 +16,7 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="index.html">首页
+                        <a href="index.php">首页
                             <!-- <img class="icon" src="./public/icon/home-filling.png" alt=""> -->
                         </a>
                     </li>
