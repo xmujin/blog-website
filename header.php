@@ -6,18 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>首页 - 向某人</title>
-
-
-
     <link rel="stylesheet" href="xStyle.css">
-
-
-
 </head>
-
 <body>
-
-
     <header>
         <!-- 头部导航栏 -->
         <div class="xHeader">
@@ -25,36 +16,23 @@
             <nav>
                 <ul>
                     <li>
-
                         <a href="index.html">首页
                             <!-- <img class="icon" src="./public/icon/home-filling.png" alt=""> -->
-
                         </a>
                     </li>
-
                     <li>
-
                         <a href="#">数据结构</a>
-
                     </li>
-
                     <li>
-
                         <a href="#">算法</a>
 
                     </li>
-
-
                     <li>
                         <a href="#">前端</a>
                     </li>
-
                     <li>
-
                         <a href="#">后端</a>
-
                     </li>
-
                     <li>
 
                         <a href="#">写作</a>
@@ -86,87 +64,3 @@
         </div>
 
     </header>
-
-    <!-- 大头标题 -->
-    <div class="header">
-        <h1>向某人的个人首页</h1>
-        <p>一切皆有可能</p>
-    </div>
-
-
-
-
-    <!-- 文档主体 -->
-    <section class="main">
-        <article class="card">
-            <div class="a-title">
-                <a href="#" title="关于清除浮动的几种方式">关于清除浮动的几种方式</a>
-            </div>
-
-            <div class="a-body">
-
-                <p class="font-article">
-                    我耳机都i佛i是大家恭喜v此
-                </p>
-
-
-            </div>
-
-
-
-        </article>
-
-
-    </section>
-        
-
-
-
-
-    <!-- 右侧边栏 -->
-    <section class="sideBar">
-
-
-        <aside>
-            <div class="aboutMe">
-                <h2>个人卡片</h2>
-                <img src="images/face.jpg" alt="">
-
-                <h3>向 洵</h3>
-
-                <p>个性签名：不登高山，不知天之高也；不临深溪，不知地之厚也。</p>
-
-            </div>
-        </aside>
-
-
-
-        
-    </section>
-
-
-    <!-- 文档尾部 -->
-    <footer>
-        <div class="footer">
-            <p>
-                Copyright © 2022 XiangXun
-
-            </p>
-
-            <p>
-                本站部分文章参考自互联网
-
-            </p>
-
-            <p>
-                向洵版权所有
-
-            </p>
-
-        </div>
-    </footer>
-
-
-</body>
-
-</html>
